@@ -1,6 +1,6 @@
 ![](images/banner.png)
 
-##  Howdy 👋 
+##  Howdy Stranger 👋 
 
 Nice to meet you, I'm Temitope Feyisitan
 

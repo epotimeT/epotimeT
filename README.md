@@ -62,6 +62,7 @@ Here's'a few things I've picked up along my learning journey.
 
 <a href="mailto:tfeyisitan@gmail.com">![tfeyisitan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/temitope-feyisitan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
-<span style="color:#0d1117">p.s. try looking at the banner with dark mode (weirdo). Idk, I just thought it was kind of cool. Bye. </span>
+### &nbsp;
 
-<span style="color:white">p.s. try looking at the banner with light mode (Not as cool I know, just want to show off ). See ya. </span>
+###### p.s. try looking at the banner with dark mode  🥺👉👈 ( you could take a look at light mode too i guess, if you're already on the dark side). Idk, I just thought it was kind of cool. Bye ❤️.
+

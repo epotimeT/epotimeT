@@ -49,14 +49,9 @@ Here's a few things I just happened to picked up
 ### &nbsp;
 
 ## GitHub Stats 👀
-##### &nbsp;
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=epotimeT&count_private=true&show_icons=true&hide=contribs)
-
-##### &nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epotimeT&layout=compact)
-
+ &nbsp;            |  &nbsp;
+:-------------------------:|:-------------------------:
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=epotimeT&count_private=true&show_icons=true&hide=contribs) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epotimeT&layout=compact)
 
 ### &nbsp;
 

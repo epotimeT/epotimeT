@@ -50,6 +50,8 @@ Here's a few things I just happened to picked up
 
 ## GitHub Stats 👀
 
+#### &nbsp;
+
 <p align="middle">
 
   <img src="https://github-readme-stats.vercel.app/api?username=epotimeT&count_private=true&show_icons=true&hide=contribs" width="50%" />

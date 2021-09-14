@@ -63,7 +63,7 @@ Here's a few things I just happened to picked up
 
 ## Contact Me 📫
 
-Feel free to drop me an e-mail or connect with me on LinkedIn on any cool new projects and opportunities or just to say hi ⤵. 
+Feel free to drop me an e-mail or connect with me on LinkedIn on any cool new projects and opportunities or just to say hi 😁 ⤵. 
 
 
 

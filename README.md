@@ -73,5 +73,5 @@ Feel free to drop me an e-mail or connect with me on LinkedIn on any cool new pr
 
 ### &nbsp;
 
-###### p.s. try looking at the banner with dark mode  🥺👉👈 ( you could take a look at light mode too i guess, if you're already on the dark side). Idk, I just thought it was kind of cool. Bye ❤️.
+###### Bye ❤️.
 

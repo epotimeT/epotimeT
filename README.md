@@ -31,7 +31,7 @@ _Personal_
 
 ## Currently Working on 💻 
 
-- Building a personal resume website
+- Building a personal resume website (check out my progress @ https://epotimet.github.io/portfolio_website/)
 - World domination and such 🌍
 - I’m currently looking for new opportunities 🔭
 
@@ -69,7 +69,9 @@ Feel free to drop me an e-mail or connect with me on LinkedIn on any cool new pr
 
 
 
-<a href="mailto:tfeyisitan@gmail.com">![tfeyisitan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;  <a href="https://www.linkedin.com/in/temitope-feyisitan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="mailto:tfeyisitan@gmail.com">![tfeyisitan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;  <a href="https://www.linkedin.com/in/temitope-feyisitan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp;
+<a href="https://epotimet.github.io/portfolio_website/">![LinkedIn](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fepotimet.github.io%2Fportfolio_website%2F)</a>
+
 
 ### &nbsp;
 

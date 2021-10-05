@@ -32,6 +32,8 @@ _Personal_
 ## Currently Working on 💻 
 
 - Building a personal resume website (check out my progress @ https://epotimet.github.io/portfolio_website/)
+- Final year project (top secret 🤐)
+- Learning some React
 - World domination and such 🌍
 - I’m currently looking for new opportunities 🔭
 

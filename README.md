@@ -1,4 +1,4 @@
-<!-- This is a comment -->![](images/banner.png)
+<!-- This is a comment![](images/banner.png) -->
 
 ##  Howdy Stranger 👋 
 

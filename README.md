@@ -1,37 +1,27 @@
-![](images/banner.png)
+<!-- This is a comment -->![](images/banner.png)
 
 ##  Howdy Stranger 👋 
 
-Nice to meet you, I'm Temitope Feyisitan
+Nice to meet you, I'm Temi
 
 ### &nbsp;
 
 ## About Me 👽
 
-- Final Year UG Computer Science student studying at the University of Birmingham, UK
+- Graduate Computer Science student studying from the University of Birmingham, UK
 - Nigerian living in the UK 
-- Areas of interests include Front-end development and UX. Also looking to delve into the application of these in Game Development and AR and VR technologies
+- Areas of interests include Cloud Infrastructure and Front-end Development.
 - I love art and design and would love to be involved in any of such projects
 
 ### &nbsp;
 
 ## Currently Learning 📚
-
-_University of Birmingham_
-- Computer Vision and Imaging
-- Human Computer Interaction
-- Advanced Functional Programming
-- Mobile & Ubiquitous Computing
-- Programming Language Principles, Design, and Implementation
-
-_Personal_
-- Unity
+- AWS
 - C++
 ### &nbsp;
 
 ## Currently Working on 💻 
 
-- Final year project (top secret 🤐)
 - Learning some React
 - World domination and such 🌍
 - I’m currently looking for new opportunities 🔭
